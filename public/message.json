@@ -1,0 +1,15 @@
+{
+  "MSG001":"Los datos se registraron correctamente!",
+  "MSG002":"Los datos se actualizaron correctamente!",
+  "MSG003":"La acción se ejecutó correctamente!",
+  "MSG004":"Restablecimiento de contraseña con éxito",
+  "MSG005":"No es posible iniciar sesión, su correo aún no se verificó",
+  "MSG006":"No es posible iniciar sesión, verifique sus datos.",
+  "MSG007":"No es posible iniciar sesión, usuario dado de baja.",
+  "MSG008":"Se cerró la sesión correctamente.",
+  "MSG009":"No tiene una sesión activa. Desconecte e ingrese nuevamente.",
+  "MSG010":"Usted no está autorizado para realizar esta acción.",
+  "MSG011":"El recurso al que intenta acceder no se encuentra disponible.",
+  "MSG012":"Se produjo un error interno. Inténtalo de nuevo más tarde."
+}
+
